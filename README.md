@@ -1,6 +1,8 @@
 # Finance_ML
 Supervised and Unsupervised Machine Learning Implementation on Finance Data
 
+1. For more Details, Please view attached presentation.
+
 
 # Correlation Map 
 
