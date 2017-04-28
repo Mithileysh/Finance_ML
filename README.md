@@ -1,7 +1,7 @@
 # Finance_ML
 Supervised and Unsupervised Machine Learning Implementation on Finance Data
 
-# For more Details, Please view attached presentation 
+# For more details, Please view attached presentation 
 1. CS548_proj5_Rohit.key
 
 
